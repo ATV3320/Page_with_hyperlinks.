@@ -11,4 +11,11 @@
     background-attachment: fixed;
     height: 500px;
 }
+.container_2{
+    max-width: 2000px;
+    margin: 0 auto;
+    background: grey;
+    font-size: 22 px;
+    padding: 25px;
+}
  
